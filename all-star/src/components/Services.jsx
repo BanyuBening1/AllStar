@@ -84,9 +84,7 @@ export default function Services() {
 
         {/* Closing Note */}
         <div className="mt-8">
-          <p className="text-base text-[#c4c6cf] max-w-4xl leading-relaxed">
-            Tim profesional kami mengoordinasikan lokasi, talenta, logistik, dan hiburan untuk menghadirkan pengalaman yang tak terlupakan untuk setiap kesempatan. Kami fokus pada 'Raising the Stars' — memastikan setiap elemen bersinar.
-          </p>
+          <p className="text-base text-[#c4c6cf] max-w-4xl leading-relaxed">Kami menyelaraskan ide besar dengan eksekusi lintas platform yang menghubungkan emosi audiens dengan tujuan bisnis Anda.</p>
         </div>
       </div>
     </section>

@@ -47,12 +47,12 @@ export const servicesData = [
 ];
 
 export const processSteps = [
-  { id: 1, title: "1. Brief", description: "Memahami visi awal Anda.", icon: "lightbulb" },
-  { id: 2, title: "2. Consult", description: "Diskusi mendalam ahli kami.", icon: "forum" },
-  { id: 3, title: "3. Plan", description: "Pembuatan blueprint acara.", icon: "map" },
-  { id: 4, title: "4. Coordinate", description: "Sinkronisasi tim & vendor.", icon: "handshake" },
-  { id: 5, title: "5. Execute", description: "H-Day management total.", icon: "celebration" },
-  { id: 6, title: "6. Manage", description: "Monitoring & Evaluasi.", icon: "monitoring" },
+  { id: 1, title: "1. Brief", description: "Mentransformasikan Brief menjadi Konsep yang Relevan, Kuat, dan Berdampak", icon: "lightbulb" },
+  { id: 2, title: "2. Consult", description: "Mengubah Visi menjadi konsep event yang 'impactful'.", icon: "forum" },
+  { id: 3, title: "3. Plan", description: "Hasil yang hebat selalu dimulai dari perencanaan yang tepat.", icon: "map" },
+  { id: 4, title: "4. Coordination", description: "Kunci eksekusi yang presisi adalah Koordinasi yang Solid.", icon: "handshake" },
+  { id: 5, title: "5. Execute", description: "Konsep Jitu hanya berhasil dengan ekseskusi yang detil dan presisi.", icon: "celebration" },
+  { id: 6, title: "6. Manage", description: "Faktor sukses event adalah manajemen yang menyatukan strategi, koordinasi dan eksekusi.", icon: "monitoring" },
 ];
 
 export const teamData = {

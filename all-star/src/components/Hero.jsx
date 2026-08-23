@@ -23,7 +23,7 @@ export default function Hero() {
 
           {/* Subtitle / Description */}
           <p className="text-base md:text-lg text-[#c4c6cf] max-w-lg leading-relaxed font-light">
-            Allstar Enterprise bukan sekadar pengelola acara. Kami adalah kurator pengalaman mewah yang mengubah visi Anda menjadi kenyataan yang mempesona.
+            Keberhasilan event bukan hanya seberapa riuh. Event harus menjadi solusi dari objective anda. Rencana yang detil, ide besar, dan eksekusi yang rapi, kami lakukan karena kami ingin event anda jadi pembicaraan dan standar baru
           </p>
 
           {/* CTA Buttons */}
